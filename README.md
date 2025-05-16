@@ -17,7 +17,7 @@
 - 🤝 I’m looking to collaborate on real-world full-stack projects where I can contribute, learn, and grow.
 
 - 📫 Contact Me:
-  - ✉️ mrmouramito@gmail.com
+  - ✉️ chafik-mouram_student2023@wilder.school - mrmouramito@gmail.com
   - 💼 [LinkedIn](https://www.linkedin.com/in/chafik-mouram/)
   - 💻 [GitHub](https://github.com/MouramChafik)
   - 📍 Based in Lyon, France
