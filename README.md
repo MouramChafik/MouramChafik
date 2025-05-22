@@ -47,7 +47,7 @@ I love blending **creativity** and **logic** to solve technical challenges — w
 |--------|--------|
 | [Quiz Movies App](https://quizmovies.netlify.app) | [![Quiz Movies](https://github.com/user-attachments/assets/ca6d2725-d8d0-4e19-b5a2-9eb455636ee0)](https://quizmovies.netlify.app) |
 | [Task Manager App](https://chafik-taskmanager.netlify.app) | [![Task Manager](https://github.com/user-attachments/assets/84367dc7-92d1-40f4-8218-c21638362717)](https://chafik-taskmanager.netlify.app) |
-| [Weather App](https://hearthand.netlify.app) | [![Weather App](https://github.com/user-attachments/assets/16f888dc-0824-41ce-80b9-ecc4afa81955)](https://hearthand.netlify.app) |
+| [HEARTHAND App](https://hearthand.netlify.app) | [![Weather App](https://github.com/user-attachments/assets/16f888dc-0824-41ce-80b9-ecc4afa81955)](https://hearthand.netlify.app) |
 | [Alpha Kids App](https://alphakids.netlify.app) | [![Alpha Kids](https://github.com/user-attachments/assets/ab7177e9-42a3-4119-948b-598ed1bdc762)](https://alphakids.netlify.app) |
 | [Cineflix Films](https://cineflix-films.netlify.app) | [![Cineflix](https://github.com/user-attachments/assets/da85312d-d9af-4a2c-a313-9c3e00baaa8f)](https://cineflix-films.netlify.app) |
 | [Muslim Prayer App](https://muslimprayer.netlify.app) | [![Prayer App](https://github.com/user-attachments/assets/29a209b1-bb17-46dd-a658-e56a90eee7e5)](https://muslimprayer.netlify.app) |
