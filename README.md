@@ -45,6 +45,8 @@ I love blending **creativity** and **logic** to solve technical challenges — w
 
 | Project | Preview |
 |--------|--------|
+| [Kids Rules Dashboard](https://kidsrules1.netlify.app/dashboard) | [![Kids Rules](https://github.com/user-attachments/assets/527a2453-d9b4-48e5-a083-2882f75fcb88)](https://kidsrules1.netlify.app/dashboard) |
+| [Cineflix Films](https://cineflix-films.netlify.app) | [![Cineflix](https://github.com/user-attachments/assets/da85312d-d9af-4a2c-a313-9c3e00baaa8f)](https://cineflix-films.netlify.app) |
 | [Quiz Movies App](https://quizmovies.netlify.app) | [![Quiz Movies](https://github.com/user-attachments/assets/ca6d2725-d8d0-4e19-b5a2-9eb455636ee0)](https://quizmovies.netlify.app) |
 | [Task Manager App](https://chafik-taskmanager.netlify.app) | [![Task Manager](https://github.com/user-attachments/assets/84367dc7-92d1-40f4-8218-c21638362717)](https://chafik-taskmanager.netlify.app) |
 | [HEARTHAND App](https://hearthand.netlify.app) | [![Weather App](https://github.com/user-attachments/assets/16f888dc-0824-41ce-80b9-ecc4afa81955)](https://hearthand.netlify.app) |
@@ -52,7 +54,6 @@ I love blending **creativity** and **logic** to solve technical challenges — w
 | [Cineflix Films](https://cineflix-films.netlify.app) | [![Cineflix](https://github.com/user-attachments/assets/da85312d-d9af-4a2c-a313-9c3e00baaa8f)](https://cineflix-films.netlify.app) |
 | [Muslim Prayer App](https://muslimprayer.netlify.app) | [![Prayer App](https://github.com/user-attachments/assets/29a209b1-bb17-46dd-a658-e56a90eee7e5)](https://muslimprayer.netlify.app) |
 | [Soins App](https://soinsapp.netlify.app) | [![Soins App](https://github.com/user-attachments/assets/d448b34f-77aa-4be8-a7b3-cfd79be99d10)](https://soinsapp.netlify.app) |
-| [Kids Rules Dashboard](https://kidsrules1.netlify.app/dashboard) | [![Kids Rules](https://github.com/user-attachments/assets/527a2453-d9b4-48e5-a083-2882f75fcb88)](https://kidsrules1.netlify.app/dashboard) |
 | [Kids Lyon](https://kidslyon.netlify.app) | [![Kids Lyon](https://github.com/user-attachments/assets/a038fbf5-987d-4c50-b573-fd62fcdbba5d)](https://kidslyon.netlify.app) |
 
 
