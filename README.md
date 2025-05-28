@@ -12,7 +12,7 @@
   - **Testing**: Jest, Testing Library (unit, integration, E2E testing)
   - **Tools**: Git, GitHub, Postman, Trello, Figma, Tizen Studio, Xcode, Swift
 
-- 🌐 Portfolio: [chafikmouram.netlify.app](https://chafikmouram.netlify.app)
+- 🌐 Portfolio: [mouram.netlify.app](https://mouram.netlify.app)
 
 - 🤝 I’m looking to collaborate on real-world full-stack projects where I can contribute, learn, and grow.
 
