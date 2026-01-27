@@ -9,8 +9,8 @@
 - 🔧 Tech Stack:
   - **Frontend**: HTML5, CSS3, JavaScript, Typescript, React, React Router, Material-UI, Tailwind CSS
   - **Backend**: Node.js, Express.js, MySQL
-  - **Testing**: Jest, Testing Library (unit, integration, E2E testing)
-  - **Tools**: Git, GitHub, Postman, Trello, Figma, Tizen Studio, Xcode, Swift
+  - **Testing**: ISTQB Methodology, Functional Testing, Automated Testing: Cypress, Playwright, Selenium, Robot Framework, (unit, integration, E2E testing)
+  - **Tools**: Git, GitHub, Postman, Trello, Figma, Tizen Studio, Xcode
 
 - 🌐 Portfolio: [mouram.netlify.app](https://mouram.netlify.app)
 
