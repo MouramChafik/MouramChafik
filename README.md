@@ -119,6 +119,7 @@ Je recherche des missions ou projets où je peux apporter une **véritable valeu
 
 | Projet | Aperçu |
 |--------|--------|
+| [🧪 Cypress Tests Portfolio](https://github.com/MouramChafik/CypressTestsPortfolio) | Tests E2E automatisés · Cypress · JavaScript |
 | [Kids Rules Dashboard](https://kidsrules1.netlify.app/dashboard) | [![Kids Rules](https://github.com/user-attachments/assets/527a2453-d9b4-48e5-a083-2882f75fcb88)](https://kidsrules1.netlify.app/dashboard) |
 | [Cineflix Films](https://cineflix-films.netlify.app) | [![Cineflix](https://github.com/user-attachments/assets/da85312d-d9af-4a2c-a313-9c3e00baaa8f)](https://cineflix-films.netlify.app) |
 | [Quiz Movies App](https://quizmovies.netlify.app) | [![Quiz Movies](https://github.com/user-attachments/assets/ca6d2725-d8d0-4e19-b5a2-9eb455636ee0)](https://quizmovies.netlify.app) |
@@ -128,7 +129,6 @@ Je recherche des missions ou projets où je peux apporter une **véritable valeu
 | [Muslim Prayer App](https://muslimprayer.netlify.app) | [![Prayer App](https://github.com/user-attachments/assets/29a209b1-bb17-46dd-a658-e56a90eee7e5)](https://muslimprayer.netlify.app) |
 | [Soins App](https://soinsapp.netlify.app) | [![Soins App](https://github.com/user-attachments/assets/d448b34f-77aa-4be8-a7b3-cfd79be99d10)](https://soinsapp.netlify.app) |
 | [Kids Lyon](https://kidslyon.netlify.app) | [![Kids Lyon](https://github.com/user-attachments/assets/a038fbf5-987d-4c50-b573-fd62fcdbba5d)](https://kidslyon.netlify.app) |
-
 ---
 
 ## 📫 Contact
