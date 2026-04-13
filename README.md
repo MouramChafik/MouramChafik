@@ -15,7 +15,7 @@
 
 ## 🎯 Profil
 
-QA Engineer passionné par la **qualité logicielle** et l'**automatisation des tests**. Certifié **ISTQB**, je conçois des stratégies de test robustes couvrant les niveaux unitaire, intégration et E2E. Mon background full-stack (React / Node.js) me permet de comprendre l'ensemble du cycle de développement, de détecter les points de friction tôt, et de collaborer efficacement avec les équipes dev et produit.
+QA Engineer passionné par la **qualité logicielle** et l'**automatisation des tests**. Je conçois des stratégies de test robustes couvrant les niveaux unitaire, intégration et E2E. Mon background full-stack (React / Node.js) me permet de comprendre l'ensemble du cycle de développement, de détecter les points de friction tôt, et de collaborer efficacement avec les équipes dev et produit.
 
 > *"Quality is not an act, it is a habit."* — Aristote
 
