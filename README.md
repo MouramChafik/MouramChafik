@@ -119,7 +119,6 @@ Je recherche des missions ou projets où je peux apporter une **véritable valeu
 | Projet | Aperçu |
 |--------|--------|
 | [🧪 Cypress Tests Portfolio](https://github.com/MouramChafik/CypressTestsPortfolio) | [![Cypress Tests](https://github.com/user-attachments/assets/06596aa6-822e-4def-9da0-5913cd5871c2)](https://github.com/MouramChafik/CypressTestsPortfolio) |
-
 | [Kids Rules Dashboard](https://kidsrules1.netlify.app/dashboard) | [![Kids Rules](https://github.com/user-attachments/assets/527a2453-d9b4-48e5-a083-2882f75fcb88)](https://kidsrules1.netlify.app/dashboard) |
 | [Cineflix Films](https://cineflix-films.netlify.app) | [![Cineflix](https://github.com/user-attachments/assets/da85312d-d9af-4a2c-a313-9c3e00baaa8f)](https://cineflix-films.netlify.app) |
 | [Quiz Movies App](https://quizmovies.netlify.app) | [![Quiz Movies](https://github.com/user-attachments/assets/ca6d2725-d8d0-4e19-b5a2-9eb455636ee0)](https://quizmovies.netlify.app) |
