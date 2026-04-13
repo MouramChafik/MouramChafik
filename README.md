@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-mouram.netlify.app-0F6E56?style=flat-square&logo=netlify)](https://mouram.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chafik--mouram-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chafik-mouram/)
 [![GitHub](https://img.shields.io/badge/GitHub-MouramChafik-181717?style=flat-square&logo=github)](https://github.com/MouramChafik)
-[![Email](https://img.shields.io/badge/Email-mrmouramito@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:mrmouramito@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mouram.chafik@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:mouram.chafik@gmail.com)
 
 📍 Lyon, France &nbsp;·&nbsp; 🌍 FR · EN · AR · IT &nbsp;·&nbsp; 🚗 Permis B
 
@@ -38,7 +38,30 @@ QA Engineer passionné par la **qualité logicielle** et l'**automatisation des 
 ---
 
 ## ⚙️ Pipeline de tests type
+
+```
+Analyse → Plan de test → Tests unitaires → Intégration → E2E → CI/CD → Rapport
+```
 ---
+
+## 💡 Exemple — Test Cypress (JavaScript)
+
+```javascript
+it('user can add a product to the cart', () => {
+  cy.visit('/products');
+
+  cy.get('[data-testid="product-card"]').first().within(() => {
+    cy.get('[data-testid="product-title"]').should('be.visible');
+    cy.get('[data-testid="add-to-cart-btn"]').click();
+  });
+
+  cy.get('[data-testid="cart-count"]').should('contain', '1');
+  cy.get('[data-testid="cart-icon"]').click();
+
+  cy.url().should('include', '/cart');
+  cy.get('[data-testid="cart-item"]').should('have.length', 1);
+});
+```
 
 ## 💡 Exemple — Test Playwright (TypeScript)
 
@@ -111,7 +134,7 @@ Je recherche des missions ou projets où je peux apporter une **véritable valeu
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:mrmouramito@gmail.com">✉️ mrmouramito@gmail.com</a> &nbsp;·&nbsp;
+  <a href="mailto:mouram.chafik@gmail.com">✉️ mouram.chafik@gmail.com</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/chafik-mouram/">💼 LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://mouram.netlify.app">🌐 Portfolio</a>
 </p>
