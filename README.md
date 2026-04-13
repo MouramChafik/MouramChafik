@@ -1,35 +1,63 @@
 # 👋 Hi, I'm Chafik Mouram
+### QA Engineer · Test Automation Specialist · Full-Stack Developer
 
-💡 I'm a **full-stack developer** with a strong focus on **frontend development**, **software testing**, and **user experience**. I’m passionate about building efficient, accessible, and creative web and mobile applications.
-
----
-
-## 🌱 About Me
-
-- 🔧 Tech Stack:
-  - **Frontend**: HTML5, CSS3, JavaScript, Typescript, React, React Router, Material-UI, Tailwind CSS
-  - **Backend**: Node.js, Express.js, MySQL
-  - **Testing**: ISTQB Methodology, Functional Testing, Automated Testing: Cypress, Playwright, Selenium, Robot Framework, (unit, integration, E2E testing)
-  - **Tools**: Git, GitHub, Postman, Trello, Figma, Tizen Studio, Xcode
-
-- 🌐 Portfolio: [mouram.netlify.app](https://mouram.netlify.app)
-
-- 🤝 I’m looking to collaborate on real-world full-stack projects where I can contribute, learn, and grow.
-
-- 📫 Contact Me:
-  - ✉️ chafik-mouram_student2023@wilder.school - mrmouramito@gmail.com
-  - 💼 [LinkedIn](https://www.linkedin.com/in/chafik-mouram/)
-  - 💻 [GitHub](https://github.com/MouramChafik)
-  - 📍 Based in Lyon, France
-
-- 🌍 Languages: Arabic, French, Italian, English  
-- 🚗 Driving License: Yes (Vehicle owner)
+📍 Lyon, France &nbsp;|&nbsp; 🌐 [mouram.netlify.app](https://mouram.netlify.app) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/chafik-mouram/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/MouramChafik)
 
 ---
 
-## ⚡ Fun fact
+## 🎯 Profil
 
-I love blending **creativity** and **logic** to solve technical challenges — whether it’s optimizing UX or debugging complex systems.
+QA Engineer passionné par la **qualité logicielle** et l'automatisation des tests. Certifié **ISTQB**, je conçois des stratégies de test robustes couvrant les niveaux **unitaire, intégration et E2E**. Mon background full-stack (React / Node.js) me permet de comprendre l'ensemble du cycle de développement et de collaborer efficacement avec les équipes dev.
+
+---
+
+## 🧪 Expertise QA & Automatisation
+
+| Framework | Type | Usage |
+|---|---|---|
+| 🎭 **Playwright** | E2E · Multi-navigateurs | Tests automatisés CI/CD |
+| 🌲 **Cypress** | E2E · Intégration · Composants | Tests fonctionnels & visuels |
+| 🤖 **Robot Framework** | Keyword-driven · BDD | Acceptance testing |
+| 🕸️ **Selenium** | WebDriver · Cross-platform | Tests navigateur legacy |
+| 🔬 **Jest / Vitest** | Unitaires · TDD | Tests composants React |
+| 📬 **Postman** | API testing | Tests de contrat & régression |
+
+**Méthodologie** : ISTQB · Functional Testing · Test Plans · Bug Reporting · Test Coverage
+
+---
+
+## ⚙️ Pipeline de tests type
+---
+
+## 💻 Stack technique complète
+
+**QA & Tests** : Playwright · Cypress · Selenium · Robot Framework · Jest · ISTQB · Postman
+
+**Frontend** : HTML5 · CSS3 · JavaScript · TypeScript · React · Tailwind CSS · Material-UI
+
+**Backend** : Node.js · Express.js · MySQL
+
+**Outils** : Git · GitHub · Figma · Trello · Tizen Studio · Xcode
+
+---
+
+## 🌱 Ce que je recherche
+
+Je suis à la recherche de missions ou de projets où je peux apporter une **véritable valeur QA** — que ce soit en mettant en place des tests automatisés E2E, en structurant une stratégie de test, ou en contribuant au dev full-stack. J'aime travailler au croisement de la qualité et de l'expérience utilisateur.
+
+---
+
+## 📫 Contact
+
+- ✉️ mrmouramito@gmail.com · chafik-mouram_student2023@wilder.school
+- 💼 [LinkedIn](https://www.linkedin.com/in/chafik-mouram/)
+- 💻 [GitHub](https://github.com/MouramChafik)
+- 🌍 Langues : Arabe · Français · Italien · Anglais
+- 🚗 Permis B (véhicule)
+
+---
+
+> *"Quality is not an act, it is a habit."* — Aristote
 
 
 ## 📊 GitHub Stats
