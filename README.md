@@ -21,6 +21,15 @@ QA Engineer passionné par la **qualité logicielle** et l'**automatisation des 
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MouramChafik&show_icons=true&theme=gruvbox&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouramChafik&layout=compact&langs_count=6&theme=gruvbox&card_width=320" />
+</p>
+
+---
+
 ## 🧪 Expertise QA & Automatisation
 
 | Framework | Niveau | Domaine |
@@ -102,15 +111,6 @@ Je recherche des missions ou projets où je peux apporter une **véritable valeu
 - Mise en place ou renforcement d'une stratégie d'automatisation des tests
 - Intégration de pipelines de tests dans des workflows CI/CD
 - Contribution full-stack sur des projets React / Node.js
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MouramChafik&show_icons=true&theme=gruvbox&include_all_commits=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouramChafik&layout=compact&langs_count=6&theme=gruvbox&card_width=320" />
-</p>
 
 ---
 
